@@ -32,7 +32,12 @@ Send the file via email and wait for the attacker to open and execute and you ge
 
 Enjoy!!
 
-This was not detected by Antivirus, Threat Protection or by Firewall. Works 100% till date accurately.
+This was not detected by Antivirus, Threat Protection or by Firewall. Works 100% till date accurately. I haven't provided the privilege escaltion to get root so figure it out by yourself. Or follow the below links.
+
+https://www.fuzzysecurity.com/tutorials/16.html
+https://sec-consult.com/en/blog/2019/04/windows-privilege-escalation-an-approach-for-penetration-testers/
+
+
 
 
 
